@@ -2,3 +2,5 @@
 if you see red folder name : it is un-versioned
 
 un-versioned: not being kept track of
+commit: saved my changes to my local repository
+
